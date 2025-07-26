@@ -63,7 +63,6 @@ http://localhost:PORT
 
 ## 📸 Screenshot
 
-<img width="1365" height="720" alt="Screenshot 2025-07-26 230131" src="https://github.com/user-attachments/assets/c19fce17-5862-41b0-aed4-53e7142b17d9" />
-
+<img width="1365" height="719" alt="Screenshot 2025-07-26 230909" src="https://github.com/user-attachments/assets/d34efa37-939e-414b-b562-77bf057c91f8" />
 
 
