@@ -14,15 +14,17 @@ A professional Node.js-based Admin Panel web application, developed for administ
 ## 📁 Project Structure
 
 ```
-ADMIN-PANEL/
-├── index.js                # Main server file
-├── package.json            # Project metadata and dependencies
-├── package-lock.json       # Dependency lock file
-├── readme.md               # Project documentation
-├── .dist/                  # (Optional) Production build output
-├── node_modules/           # Node.js modules
-├── public/                 # Static files (CSS, JS, images)
-└── views/                  # EJS templates
+PR-3-AdminPanel/
+│
+├── index.js               # Main Express server file
+├── package.json           # Project metadata and dependencies
+├── views/                 # EJS templates
+│   ├── index.ejs
+│   └── partials/
+│       ├── header.ejs
+│       └── footer.ejs
+├── public/                # Static assets (CSS, JS, images)
+└── node_modules/          # Installed dependencies
 ```
 
 ## ⚙️ Installation
