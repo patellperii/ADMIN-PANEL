@@ -59,6 +59,7 @@ http://localhost:PORT
 - [EJS](https://ejs.co/)
 - [HTML](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Bootstrap](https://getbootstrap.com/)
 
 
 ## 📸 Screenshot
