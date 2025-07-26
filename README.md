@@ -55,7 +55,9 @@ http://localhost:PORT
 - [Node.js](https://nodejs.org/)
 - [Express.js](https://expressjs.com/)
 - [EJS](https://ejs.co/)
-- HTML, CSS, JavaScript
+- HTML
+- CSS
+-  JavaScript
 
 ## 📸 Screenshots
 
